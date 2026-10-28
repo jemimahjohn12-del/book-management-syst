@@ -4,7 +4,7 @@ A robust REST API built with **FastAPI** and **PostgreSQL (hosted on Neon)** for
 
 ---
 
-## 🌟 Features
+ Features
 
 - **RESTful Endpoints:** Full support for creating, retrieving, updating, and deleting books.
 - **Persistent Storage:** Data is stored securely in a cloud PostgreSQL database hosted on Neon.
@@ -15,7 +15,7 @@ A robust REST API built with **FastAPI** and **PostgreSQL (hosted on Neon)** for
 
 ---
 
-## 🛠️ Technologies Used
+Technologies Used
 
 - **Python 3.10+**
 - **FastAPI** (Web framework)
@@ -27,7 +27,7 @@ A robust REST API built with **FastAPI** and **PostgreSQL (hosted on Neon)** for
 
 ---
 
-## 📁 Project Folder Structure
+Project Folder Structure
 
 ```text
 book-management-system/
